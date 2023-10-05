@@ -1,0 +1,6 @@
+tensorflow==2.7
+regex
+urllib3==1.26.6
+openai
+streamlit_lottie
+whois
